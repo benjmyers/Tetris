@@ -1,0 +1,10 @@
+== x86 Tetris
+
+This is a version of Tetris, written in x86 without interrupts. Why you might ask? Because the professor said so. It’s somewhat functional… the pieces move down and stack up, but full lines do not clear off the screen nor can the pieces rotate. The code is also somewhat messy. I’m comfortable with this fact because the game was written after having one prior x86 assignment, and the whole thing was completed in a few days. And I think it’s actually pretty cool.
+
+You can watch a video of it at http://www.myersmeredith.com/portfolio/x86-tetris/
+
+== License
+
+Distributed under the Apache License Version 2. See "license.txt" for more information.
+
